@@ -25,4 +25,4 @@ $ yarn export
 ```
 
 ## More to Come
-This blog will serve as a working version of my first novel, _A Girl Out of Time_
+This blog will serve as a working version of my first novel, _A Girl Out of Time_. Each week, I'll try and add a new chapter.
