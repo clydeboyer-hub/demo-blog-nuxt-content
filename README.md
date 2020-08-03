@@ -23,3 +23,6 @@ $ yarn build
 # generate static project
 $ yarn export
 ```
+
+## More to Come
+This blog will serve as a working version of my first novel, _A Girl Out of Time_
