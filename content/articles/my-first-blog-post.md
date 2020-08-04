@@ -13,8 +13,12 @@ Welcome to my first blog post using content module
 
 ## This is a heading
 This is some more info
-<div class="bg-blue-500 text-white p-4 mb-4">
+<div class="bg-blue-500 text-white p-4 mb-6">
   This is HTML inside markdown that has a class some classes
+</div>
+
+<div class="bg-green-400 rounded-lg text-white p-6 mb-6">
+  This is my trying out styles.
 </div>
 
 <info-box>
